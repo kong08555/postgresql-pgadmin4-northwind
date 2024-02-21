@@ -1,6 +1,6 @@
 do $$
 declare
-   n_of_recs bigint := 10000;
+   n_of_recs bigint := 100000;
 	 random_user_name varchar(30);
 	 random_user_id integer;
 	 random_amount DECIMAL(10, 2);
